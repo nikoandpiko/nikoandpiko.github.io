@@ -2,7 +2,7 @@ title:              Clean Blog
 email:              nikoandpiko@gmail.com
 description:        Bloggy
 author:             nikoandpiko
-baseurl:            "/dataslice/"
+baseurl:            ""
 url:                "https://nikoandpiko.github.io"
 
 # Social Profiles
